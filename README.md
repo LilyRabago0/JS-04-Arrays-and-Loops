@@ -19,12 +19,13 @@ It turns out David was saving a spot for his friend Renata. She shows up and goe
 Exercise #2
 Write a JavaScript program to construct the following pattern, using a nested for loop.
 
+_________________
 *  
 * *  
 * * *  
 * * * *  
 * * * * *
-
+_________________
 
 Exercise #3
 Write while loops to do the following:
